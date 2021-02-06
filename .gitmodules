@@ -1,0 +1,3 @@
+[submodule "mp4analyser"]
+	path = mp4analyser
+	url = https://github.com/essential61/mp4analyser
